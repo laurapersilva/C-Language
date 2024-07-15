@@ -1,2 +1,2 @@
 # C-Language
-Exercises with programs in the C language 
+This folder intends to show some of my work in the C language
